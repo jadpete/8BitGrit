@@ -1,0 +1,20 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"spr_background1","order":13,"path":"sprites/spr_background1/spr_background1.yy",},
+    {"name":"spr_background2","order":15,"path":"sprites/spr_background2/spr_background2.yy",},
+    {"name":"spr_bombCar","order":3,"path":"sprites/spr_bombCar/spr_bombCar.yy",},
+    {"name":"spr_chopper1","order":6,"path":"sprites/spr_chopper1/spr_chopper1.yy",},
+    {"name":"spr_chopper2","order":7,"path":"sprites/spr_chopper2/spr_chopper2.yy",},
+    {"name":"spr_cityHallBackground","order":14,"path":"sprites/spr_cityHallBackground/spr_cityHallBackground.yy",},
+    {"name":"spr_enemy2","order":1,"path":"sprites/spr_enemy2/spr_enemy2.yy",},
+    {"name":"spr_enemy3","order":2,"path":"sprites/spr_enemy3/spr_enemy3.yy",},
+    {"name":"spr_fodder1","order":4,"path":"sprites/spr_fodder1/spr_fodder1.yy",},
+    {"name":"spr_fodder2","order":5,"path":"sprites/spr_fodder2/spr_fodder2.yy",},
+    {"name":"spr_fuel","order":12,"path":"sprites/spr_fuel/spr_fuel.yy",},
+    {"name":"spr_mail1","order":9,"path":"sprites/spr_mail1/spr_mail1.yy",},
+    {"name":"spr_mail2","order":10,"path":"sprites/spr_mail2/spr_mail2.yy",},
+    {"name":"spr_market1","order":11,"path":"sprites/spr_market1/spr_market1.yy",},
+    {"name":"spr_stopSign","order":8,"path":"sprites/spr_stopSign/spr_stopSign.yy",},
+  ],
+}
