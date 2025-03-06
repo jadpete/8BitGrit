@@ -34,7 +34,12 @@
   },
   "name":"Project1",
   "resources":[
+    {"id":{"name":"obj_cannon","path":"objects/obj_cannon/obj_cannon.yy",},},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"scr_angleRotate","path":"scripts/scr_angleRotate/scr_angleRotate.yy",},},
+    {"id":{"name":"spr_cannon","path":"sprites/spr_cannon/spr_cannon.yy",},},
+    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
